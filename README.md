@@ -24,3 +24,7 @@ Run the model
   --data_path=simple-examples/data/ --alsologtostderr --model small`
 
   You can try to change the size of model to medium or large instead. This will change the size of LSTM. The small model should be able to reach perplexity below 120 on the test set and the large one below a nice 80, though it might take several hours to train!
+
+## Who is behind this
+
+Heri is a software engineer, photographer, father and Montréaler. Building in the open — see more projects at [studiozenkai.com](https://studiozenkai.com).
